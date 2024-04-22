@@ -7,3 +7,12 @@ body{
 h1{
     color: blue;
 }
+
+p{
+    color: brown;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
