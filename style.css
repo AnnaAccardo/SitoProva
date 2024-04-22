@@ -1,1 +1,9 @@
-/* css */
+@charset "utf-8";
+
+body{
+    background-color: yellow;
+}
+
+h1{
+    color: blue;
+}
